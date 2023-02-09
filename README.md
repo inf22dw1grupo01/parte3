@@ -6,5 +6,5 @@ A PokemonAPI é um sistema de criação de equipas pokemon feito para o utilizad
 
 # Organização do Repositório
 * Pode encontrar o código fonte em [src folder](pokemon-lb4/).
-* Pode encontrar a base de dados em 
+* Pode encontrar a base de dados em [db folder](db/).
 * Pode encontrar outros documentos em 
