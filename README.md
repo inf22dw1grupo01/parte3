@@ -28,5 +28,5 @@ A PokemonAPI é um sistema de criação de equipas pokemon feito para o utilizad
 
 # Equipa Responsável
 * David Brito A037114 [@DavidBrito12](https://https://github.com/DavidBrito12)
-* Tiago Pereira A041795 [@tiagopraca](https://https://github.com/tiagopraca)
-* Gonçalo Ramos A041100 [@Goncalo08](https://https://github.com/Goncalo08)
+* Tiago Pereira A041100 [@tiagopraca](https://https://github.com/tiagopraca)
+* Gonçalo Ramos A041795 [@Goncalo08](https://https://github.com/Goncalo08)
